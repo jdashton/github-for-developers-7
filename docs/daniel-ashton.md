@@ -1,5 +1,7 @@
 
 ### Daniel Ashton -- Germantown, MD, USA
 
-I like German chocolate cake, and enjoy learning programming languages.
+**Favourite food:** German chocolate cake
+**Hobby:** Learning programming languages.
 **Favorite colour:** Bold
+**Current city:** Germantown, MD, USA
